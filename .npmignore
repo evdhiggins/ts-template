@@ -1,0 +1,11 @@
+node_modules
+src
+
+.eslintignore
+.eslintrc.js
+.npmrc
+.nvmrc
+.pretierrc.js
+.vscode
+*.env
+jest.config.js
