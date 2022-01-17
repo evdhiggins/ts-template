@@ -1,11 +1,14 @@
+.vscode
 node_modules
 src
 
 .eslintignore
-.eslintrc.js
+.eslintrc
+.gitignore
 .npmrc
 .nvmrc
-.pretierrc.js
-.vscode
-*.env
-jest.config.js
+.pretierrc
+jest.config.json
+readme.md
+
+.env
